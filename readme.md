@@ -11,7 +11,7 @@ An AI chatbot with Spring-boot &amp; MangoDB
 - Create an account in below portal & generate API Key.
 - You will be required to add some credits (5 USD) to start testing the API.
   `https://platform.openai.com/settings/organization/api-keys`
-- Put the API key in yaml files.
+- Put the API key in `application.yml` files.
 
 # Create Mongo Atlas DB instance using free tier:
 - Visit the below link & create a free account. 
