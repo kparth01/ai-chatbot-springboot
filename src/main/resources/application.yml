@@ -1,0 +1,7 @@
+app:
+  load-articles: false #keep it true if you want to load embeddings into New MONGO_ATLAS_DB
+  mongodb:
+    url: <MONGO_ATLAS_DB_URL>
+    db-name: <MONGO_ATLAS_DB_NAME>
+  openai:
+    apiKey: ${API_KEY}
